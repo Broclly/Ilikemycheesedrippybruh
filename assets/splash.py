@@ -1,0 +1,3 @@
+splashTextCommon = ["Setting up piles", "Generating sticks", "Clearing the table","Sorting piles","Counting sticks","Checking quality"]
+splashTextRare = ["Destroying forests","4 5 6","Finding anamoalous wood","Blowing up natural habitats","ERROR!","You aren't really reading this are you?"]
+splashTextLegendary = ["Oiling up just for you","The cake is a lie","It's all Omar's fault","Those who know","Bro just hop off this game","808s are basically a crashout"]
